@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.env
+*.pyc
+AI_Transformation_Report.pdf
+.streamlit/
