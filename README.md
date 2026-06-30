@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Enterprise AI Transformation Advisor
 
 An end-to-end AI Consulting Platform that helps organizations evaluate their AI readiness, identify AI opportunities, estimate ROI, assess Responsible AI risks, and generate AI transformation roadmaps using Google Gemini AI.
@@ -90,3 +91,22 @@ Enterprise_AI_Transformation_Advisor/
 M.Tech (AI & ML)
 
 Python | Generative AI | Agentic AI | Responsible AI
+=======
+# Enterprise-AI-Transformation-Advisor
+>>>>>>> b17f0a745b406fee19648c64182eaf36318d9e90
+
+## 📷 Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## 📊 AI Maturity Assessment
+
+![AI Maturity](images/maturity.png)
+
+---
+
+## 📄 PDF Report
+
+![PDF Report](images/report.png)
