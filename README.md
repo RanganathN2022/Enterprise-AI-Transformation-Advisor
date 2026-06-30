@@ -97,16 +97,16 @@ Python | Generative AI | Agentic AI | Responsible AI
 
 ## 📷 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
 
 ---
 
 ## 📊 AI Maturity Assessment
 
-![AI Maturity](images/maturity.png)
+![AI Maturity](images/Maturity.jpg)
 
 ---
 
 ## 📄 PDF Report
 
-![PDF Report](images/report.png)
+![PDF Report](images/Report.jpg)
